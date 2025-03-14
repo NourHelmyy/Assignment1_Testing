@@ -6,3 +6,13 @@ ID: 19220012
   And I'm writing this paragraph for my Software Testing Assignment.
   I do like watching movies in my free time however this "free time" is hard to find.
   Hello World!
+
+
+# Wish-List:
+    - improve my problem solving skills
+    - learn more in my free time
+    - play sports specially tennis
+    -
+    -
+
+  
